@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rohitkhatri-314
 - 👀 I’m interested in ... Programming & Videography
 - 🌱 I’m currently learning ... Machine Learning using Python and R
-- 💞️ I’m looking to collaborate on ... nothing as of now because I am learning right now
+- 💞️ I’m looking to collaborate on ... some projects
 - 📫 How to reach me ... work.rohitkhatri@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... 
